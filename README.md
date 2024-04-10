@@ -1,4 +1,4 @@
-Preview
+PREVIEW
 
 ![1](https://github.com/reshmaradhi/Static-Mobile-Shop-Website/assets/165657948/9f85d1bb-31c4-4209-987e-e2b394449954)
 
